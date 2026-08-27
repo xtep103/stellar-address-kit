@@ -51,9 +51,12 @@ fuzz/corpus/
 fuzz/artifacts/
 
 # ─── Editors & OS ────────────────────────────────────────────────────────────
-.vscode/
 .idea/
 *.suo
 *.user
 .DS_Store
 Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
